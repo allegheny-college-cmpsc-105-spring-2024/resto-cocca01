@@ -1,7 +1,31 @@
 ---
 layout: post
-title: "about"
+title: "Café Cocca"
 ---
+
+# Do you love Coffee?? We do too! Come visit our caffination station!
+
+## <span style="color:green">Located at:</span>
+1313 Lovely Lane, Portland, OR 97213
+
+## <span style="color:green">Hours:</span>
+Monday: CLOSED
+Tuesday: 7:00 am - 3:00 pm
+Wednesday: 7:00 am - 3:00 pm
+Thursday: 7:00 am - 9:00pm
+Friday: 7:00 am - 9:00pm
+Saturday: 7:00 am - 9:00pm
+Sunday: 7:00 am - 9:00pm
+*Hours vary on/around holidays - Will be posted on the gram, FOLLOW US! @cafe_cocca*
+
+## <span style="color:green">Announcements:</span>
+*WE ARE HIRING*
+Café Cocca is currently looking to expand our team!
+Positions available: Bread and Pastry Baker, Part-time Barista, Cashier, Dishwasher
+*Click on the contact tab to find our email, send us your resumé & cover letter, or inquire at our storefront!*
+
+
+
 
 - TODO: look at the raw markdown below for examples of making links, bold, colors, quotes, etc.
 - TODO: replace the content of this file with a description of the concept of your restaurant
@@ -20,9 +44,9 @@ title: "about"
 
 ![logo](./assets/images/magnifying-glass-logo.jpeg){:width="200"}
 
-# Allegheny College, CMPSC 105.00 Data Exploration
 
-## <span style="color:green">Course Description</span>
+
+
 
 >An introduction to the methods of collecting, exploring, transforming and visualizing data for
 >storytelling. Often participating in team-based and hands-on activities, students learn how to
