@@ -1,11 +1,24 @@
 ---
 layout: page
-title: amazing menu
+title: Menu
 permalink: /menu
 nav: true
 ---
 
-## menu
+## Menu
+
+### <span style="color:purple">Drinks:</span>
+>All drinks come in one size! In a hand-thrown mug!
+>If you want it to-go, bring your own to-go cup!
+<br>
+**Double Shot**
+**Latté**
+**Americano**
+**
+
+### <span style="color:purple">Savories:</span>
+
+### <span style="color:purple">Sweets:</span>
 
 this is the menu
 
