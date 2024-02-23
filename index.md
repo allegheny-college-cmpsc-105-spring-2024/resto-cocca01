@@ -14,7 +14,7 @@ title: "Café Cocca"
 - We have delicious drinks and breakfast offerings
 - Just check out some reviews from our customers! ![emoji](./assets/images/down_arrow.png){:width="50"}
 
-## <span style="color:purple">Reviews:</span>
+## Reviews
 >*"the latte was by far the best...I think my date here went super well because of how delicious and cute this café was so I give it a 10/10"* -Elizabeth
 <br>
 >*"Their scones are to die for!"* -Bobby
