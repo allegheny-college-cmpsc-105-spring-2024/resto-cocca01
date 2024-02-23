@@ -16,7 +16,7 @@ cafecocca@gmail.com
 ## <span style="color:purple">Instagram:</span>
 cafe_cocca
 
-## <span style="color:purple">Hours:</span>
+## Hours
 - Monday: CLOSED
 - Tuesday: 7:00 am - 3:00 pm
 - Wednesday: 7:00 am - 3:00 pm

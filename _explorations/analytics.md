@@ -9,9 +9,9 @@ Google analytics provides a lot of interesting and informative data. Something t
 You can see this here:
 <br>
 
-![pages](./assets/images/pages.png)
+![pages](../assets/images/pages.png)
 
-![pages_graph](./assets/images/pages_graph.png)
+![pages_graph](../assets/images/pages_graph.png)
 <br>
 
 Another super cool thing we can see in google analytics is where users are located. For example, most of the clicks onto my website were from the United States, however, I also had 1 user each from Turkey, Germany, and Israel. Generally, it is also very helpful to see the number of users your website is hosting over time. With this you can see how different time periods have more traffic and perhaps this can inform when is the best time to post announcements or you can make assumptions about what contemporary things might be impacting your engagement.
