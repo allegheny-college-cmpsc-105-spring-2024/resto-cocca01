@@ -10,6 +10,7 @@ You can see this here:
 <br>
 
 ![pages](./assets/images/pages.png)
+
 ![pages_graph](./assets/images/pages_graph.png)
 <br>
 
