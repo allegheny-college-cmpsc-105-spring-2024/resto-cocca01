@@ -12,7 +12,7 @@ nav: true
 <br>
 
 #### All the espresso options! -all $2.00
-![espresso](./assets/images/espresso.jpg){:width="200"}
+![espresso](./assets/images/espresso1.jpeg){:width="400"}
 <br>
 
 #### Matcha Latté -$2.50
@@ -23,10 +23,12 @@ nav: true
 - black
 - white peach
 - peppermint
+<br>
+
 ![tea](./assets/images/tea.jpeg){:width="200"}
 <br>
 
-#### Drink customizations:
+#### Drink customizations: -no additional charge!
 - Milk options: cow, soy, almond, oat
 - Flavors: vanilla, chocolate, caramel, lavendar, rose,
 
@@ -41,7 +43,7 @@ nav: true
 - cheese options: cheddar, provolone, pepperjack (recommended)
 <br>
 
-![sammy](./assets/images/breakfast_sandwish.jpeg){:width="200"}
+![sammy](./assets/images/breakfast_sandwich.jpeg){:width="200"}
 <br>
 
 #### Brakfast Burrito -$4.50
@@ -52,8 +54,6 @@ nav: true
 <br>
 
 #### Loaded Foccacia Bread -$3.00
-<br>
-
 #### Bacon/cheddar Scone -$2.50
 <br>
 

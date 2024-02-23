@@ -6,16 +6,20 @@ title: "Café Cocca"
 
 # Do you love Coffee?? We do too! Come visit our caffination station!
 ![cafe](./assets/images/cafe.jpeg)
+![cup](./assets/images/cup.jpeg)
 <br>
-#### What makes Café Cocca
+#### What makes Café Cocca GREAT?
 - We have indoor AND outdoor seating
 - We serve everything in hand-made ceramic mugs or plates
-- We have delicious drinks and snacks
+- We have delicious drinks and breakfast offerings
+- Just check out our reviews! ![emoji](./assets/images/down_arrow.png)
 
 ## <span style="color:purple">Located at:</span>
-1313 Lovely Lane, Portland, OR 97213
+13 Love Lane, Portland, OR 99999
 
 ## <span style="color:purple">Hours:</span>
+>Hours vary on/around holidays - Will be posted on the gram, FOLLOW US! @cafe_cocca
+<br>
 - Monday: CLOSED
 - Tuesday: 7:00 am - 3:00 pm
 - Wednesday: 7:00 am - 3:00 pm
@@ -24,7 +28,6 @@ title: "Café Cocca"
 - Saturday: 7:00 am - 9:00pm
 - Sunday: 7:00 am - 9:00pm
 <br>
->Hours vary on/around holidays - Will be posted on the gram, FOLLOW US! @cafe_cocca
 
 ## <span style="color:purple">Announcements:</span>
 *WE ARE HIRING*
