@@ -11,12 +11,12 @@ nav: true
 >Totally customizable!
 <br>
 
-#### All the espresso options! -all $2.00
-![espresso](./assets/images/espresso1.jpeg){:width="400"}
+#### All the espresso options! -$2.00
+![espresso](./assets/images/espresso1.jpeg){:width="800"}
 <br>
 
 #### Matcha Latté -$2.50
-![matcha](./assets/images/matcha.jpeg){:width="200"}
+![matcha](./assets/images/matcha.jpeg){:width="500"}
 
 #### Tea options: -$1.50
 - green
@@ -25,7 +25,7 @@ nav: true
 - peppermint
 <br>
 
-![tea](./assets/images/tea.jpeg){:width="200"}
+![tea](./assets/images/tea.jpeg){:width="500"}
 <br>
 
 #### Drink customizations: -no additional charge!
@@ -43,14 +43,14 @@ nav: true
 - cheese options: cheddar, provolone, pepperjack (recommended)
 <br>
 
-![sammy](./assets/images/breakfast_sandwich.jpeg){:width="200"}
+![sammy](./assets/images/breakfast_sandwich.jpeg){:width="500"}
 <br>
 
 #### Brakfast Burrito -$4.50
 - with egg, cheese, peppers & oinions
 <br>
 
-![burrito](./assets/images/breakfast_burrito.jpeg){:width="200"}
+![burrito](./assets/images/breakfast_burrito.jpeg){:width="500"}
 <br>
 
 #### Loaded Foccacia Bread -$3.00
@@ -62,7 +62,7 @@ nav: true
 - with Berries
 <br>
 
-![toast](./assets/images/french_toast.jpeg){:width="200"}
+![toast](./assets/images/french_toast.jpeg){:width="500"}
 <br>
 
 #### Muffins: -$3.50
@@ -73,4 +73,4 @@ nav: true
 - flavors: plain, cinnamon & sugar, powdered sugar, flavor of the day
 <br>
 
-![donut](./assets/images/donut.jpeg){:width="200"}
+![donut](./assets/images/donut.jpeg){:width="500"}

@@ -1,17 +1,17 @@
 ---
 layout: page
-title: contact us!
+title: Contact us!
 permalink: /contact
 nav: true
 ---
 
 ## <span style="color:purple">Located at:</span>
-1313 Lovely Lane, Portland, OR 97213
+13 Love Lane, Portland, OR 99999
 ## <span style="color:purple">Phone Number:</span>
 Give us a call at (111)333-7777
 ## <span style="color:purple">Email:</span>
 coccacafe@gmail.com
-> If aaplying for a position, send your resume and cover letter here
+- If aplying for a position, send your resume and cover letter here
 ## <span style="color:purple">Hours:</span>
 - Monday: CLOSED
 - Tuesday: 7:00 am - 3:00 pm
