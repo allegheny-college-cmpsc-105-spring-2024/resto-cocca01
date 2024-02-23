@@ -5,8 +5,6 @@ permalink: /menu
 nav: true
 ---
 
-## Menu
-
 ### <span style="color:purple">Drinks:</span>
 >All drinks come in one size! In a hand-thrown mug!
 >If you want it to-go, bring your own to-go cup!
@@ -14,7 +12,7 @@ nav: true
 <br>
 
 #### All the espresso options! -all $2.00
-![espresso_chart](./assets/images/espresso.jpg){:width="200"}
+![espresso](./assets/images/espresso.jpg){:width="200"}
 <br>
 
 #### Matcha Latté -$2.50
@@ -41,11 +39,15 @@ nav: true
 #### Breakfast Sandwich -$4.50
 - bread options: bagel/bread/english muffin
 - cheese options: cheddar, provolone, pepperjack (recommended)
+<br>
+
 ![sammy](./assets/images/breakfast_sandwish.jpeg){:width="200"}
 <br>
 
 #### Brakfast Burrito -$4.50
 - with egg, cheese, peppers & oinions
+<br>
+
 ![burrito](./assets/images/breakfast_burrito.jpeg){:width="200"}
 <br>
 
@@ -58,6 +60,8 @@ nav: true
 ### <span style="color:purple">Sweets:</span>
 #### French Toast -$6.50
 - with Berries
+<br>
+
 ![toast](./assets/images/french_toast.jpeg){:width="200"}
 <br>
 
@@ -67,17 +71,6 @@ nav: true
 
 #### Donuts: -$2.50
 - flavors: plain, cinnamon & sugar, powdered sugar, flavor of the day
+<br>
+
 ![donut](./assets/images/donut.jpeg){:width="200"}
-
-this is the menu
-
-- TODO: add at least 1 menu item. Be as descriptive as possible to get a good review!
-- TODO: make sure the menu item has at least one image
-
-### menu item 1
-
-#### lettuce
-
-- price: $100
-
-![lettuce](assets/images/magnifying-glass-logo.jpeg){:width="200"}

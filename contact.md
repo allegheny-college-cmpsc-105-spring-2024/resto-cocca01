@@ -22,7 +22,3 @@ coccacafe@gmail.com
 - Sunday: 7:00 am - 9:00pm
 <br>
 *Hours vary on/around holidays - Will be posted on the gram, FOLLOW US! @cafe_cocca*
-
-- TODO: fill in fake contact information for the business
-- TODO: create heading for `Hours`
-- Optional: perhaps fake address, hours, phone, reservation instructions...
