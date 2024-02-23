@@ -20,7 +20,7 @@ title: "Café Cocca"
 >*"Their scones are to die for!"* -Bobby
 
 ## <span style="color:purple">Announcements:</span>
-*WE ARE HIRING*
+*WE ARE HIRING!*
 >Café Cocca is currently looking to expand our team!
 <br>
 >Positions available:

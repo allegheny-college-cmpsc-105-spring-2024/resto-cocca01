@@ -10,10 +10,11 @@ nav: true
 ## <span style="color:purple">Phone Number:</span>
 Give us a call at (111)333-7777
 ## <span style="color:purple">Email:</span>
-coccacafe@gmail.com
+cafecocca@gmail.com
 <br>
-*If aplying for a position, send your resume and cover letter here*
-<br>
+*If applying for a position, send your resume and cover letter here*
+## <span style="color:purple">Instagram:</span>
+cafe_cocca
 
 ## <span style="color:purple">Hours:</span>
 - Monday: CLOSED
