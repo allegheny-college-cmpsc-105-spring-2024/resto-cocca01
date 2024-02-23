@@ -12,13 +12,12 @@ nav: true
 >If you want it to-go, bring your own to-go cup!
 <br>
 
-- Pour-over coffee
-- Double Shot
-- Americano
-- Latté
-- Mocha
+- All the espresso options!
+![lettuce](assets/images/espresso.png){:width="200"}
 - Matcha Latté
+![lettuce](assets/images/matcha.png){:width="200"}
 - Tea options: green, black, white peach, peppermint
+![lettuce](assets/images/tea.png){:width="200"}
 <br>
 - Milk options: cow, soy, almond, oat
 - Flavors: vanilla, chocolate, caramel, lavendar, rose,
@@ -26,22 +25,25 @@ nav: true
 <br>
 
 ### <span style="color:purple">Savories:</span>
->All savories come with a side: fruit or hashbrown
+>All savories come with a side: fruit or a hashbrown
 <br>
-#### Breakfast Sandwich
+
+#### Breakfast Sandwich -$4.50
 - bread options: bagel/bread/english muffin
 - cheese options: cheddar, provolone, pepperjack (recommended)
-#### Brakfast Burrito
+<br>
+#### Brakfast Burrito -$4.50
 - with egg, cheese, peppers & oinions
-#### Loaded Foccacia Bread
-#### Bacon/cheddar Scone
+<br>
+#### Loaded Foccacia Bread -$3.00
+#### Bacon/cheddar Scone -$2.50
 
 ### <span style="color:purple">Sweets:</span>
-#### French Toast 
+#### French Toast -$6.50
 - with Berries
-#### Muffins: 
+#### Muffins: -$3.50
 - flavors: chocolate chip, blueberry, cinnamon & sugar
-#### Donut
+#### Donuts: -$2.50
 - flavors: plain, cinnamon & sugar, powdered sugar, flavor of the day
 
 this is the menu
