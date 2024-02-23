@@ -5,7 +5,7 @@ permalink: /contact
 nav: true
 ---
 
-## <span style="color:purple">Located at:</span>
+## <span style="color:purple">Location:</span>
 13 Love Lane, Portland, OR 99999
 ## <span style="color:purple">Phone Number:</span>
 Give us a call at (111)333-7777

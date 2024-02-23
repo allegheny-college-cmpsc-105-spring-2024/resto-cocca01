@@ -21,18 +21,18 @@ title: "Café Cocca"
 
 ## <span style="color:purple">Announcements:</span>
 *WE ARE HIRING!*
->Café Cocca is currently looking to expand our team!
+Café Cocca is currently looking to expand our team!
 <br>
->Positions available:
-<br> 
->- Bread and Pastry Baker
->- Part-time Barista
->- Cashier
->- Dishwasher
+Positions available:
+ 
+- Bread and Pastry Baker
+- Part-time Barista
+- Cashier
+- Dishwasher
 <br>
 *Click on the contact tab to find our email, send us your resumé & cover letter, or inquire at our storefront!*
 
-## <span style="color:purple">Located at:</span>
+## <span style="color:purple">Location:</span>
 13 Love Lane, Portland, OR 99999
 
 ## <span style="color:purple">Hours:</span>
