@@ -5,14 +5,14 @@ title: "Café Cocca"
 ---
 
 # Do you love Coffee?? We do too! Come visit our caffination station!
-![cafe](./assets/images/cafe.jpeg){:width="500"}
-![cup](./assets/images/cup.jpeg){:width="500"}
+![cafe](./assets/images/cafe.jpeg){:width="300"}
+![cup](./assets/images/cup.jpeg){:width="300"}
 
 #### What makes Café Cocca GREAT?
 - We have indoor AND outdoor seating
 - We serve everything in hand-made ceramic mugs or plates
 - We have delicious drinks and breakfast offerings
-- Just check out our reviews! ![emoji](./assets/images/down_arrow.png){:width="50"}
+- Just check out some reviews from our customers! ![emoji](./assets/images/down_arrow.png){:width="50"}
 
 ## <span style="color:purple">Reviews:</span>
 >*"Best Lattés in town!"* -Joey

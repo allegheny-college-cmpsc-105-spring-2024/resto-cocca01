@@ -12,7 +12,7 @@ nav: true
 <br>
 
 #### All the espresso options! -$2.00
-![espresso](./assets/images/espresso1.jpeg){:width="800"}
+![espresso](./assets/images/espresso1.jpeg){:width="700"}
 <br>
 
 #### Matcha Latté -$2.50
@@ -43,7 +43,7 @@ nav: true
 - cheese options: cheddar, provolone, pepperjack (recommended)
 <br>
 
-![sammy](./assets/images/breakfast_sandwich.jpeg){:width="500"}
+![sammy](./assets/images/breakfast_sandwich.jpeg){:width="300"}
 <br>
 
 #### Brakfast Burrito -$4.50

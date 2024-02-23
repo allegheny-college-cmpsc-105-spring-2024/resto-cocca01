@@ -11,7 +11,10 @@ nav: true
 Give us a call at (111)333-7777
 ## <span style="color:purple">Email:</span>
 coccacafe@gmail.com
-- If aplying for a position, send your resume and cover letter here
+<br>
+*If aplying for a position, send your resume and cover letter here*
+<br>
+
 ## <span style="color:purple">Hours:</span>
 - Monday: CLOSED
 - Tuesday: 7:00 am - 3:00 pm
